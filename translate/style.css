@@ -1,17 +1,17 @@
 .section,.widget,.widget-content,.widget ul,.widget li,body,h1,h2,h3,h4,h5,ul,li,a,p,span,img,dd{margin:0;padding:0;list-style:none;text-decoration:none;border:none;outline:none}
-body{background:#eee url(https://lh5.googleusercontent.com/-7Rcg74icRug/UcPyCZHE3OI/AAAAAAAAB8Y/EXWiyDhHPuA/s512/retina_wood.png);font:13px/1.6 Arial,"HelveticaNeue","Helvetica Neue",Helvetica,Arial,sans-serif;font-weight:400;color:#666;word-wrap:break-word}
+body{background:#eee url(http://cdn.rawgit.com.com/sonydaman/myblog/master/Images/retina_wood.png);font:13px/1.6 Arial,"HelveticaNeue","Helvetica Neue",Helvetica,Arial,sans-serif;font-weight:400;color:#666;word-wrap:break-word}
 a{color:#E74C3C}
 a:hover{color:#888}
 h1,h2,h3,h4,h5{font-family:"Oswald",Georgia,"Times New Roman",Times,serif;font-weight:normal;line-height:inherit}
 .top_wrapper { margin-bottom: 30px; }
-#header-wrapper { background: #34495e url(https://lh3.googleusercontent.com/-dWD6fLTXGKI/UcPyBdjWZuI/AAAAAAAAB7o/3yHEMBx00iM/s67/pattern-header.png) repeat-x; padding-top: 30px; border-top:5px solid #e74c3c; -moz-box-shadow: 0px 1px 1px rgba(0,0,0,0.2);-webkit-box-shadow: 0px 1px 1px rgba(0,0,0,0.2);box-shadow: 0px 1px 1px rgba(0,0,0,0.2);  position:relative; z-index:100 }
+#header-wrapper { background: #34495e url(http://cdn.rawgit.com.com/sonydaman/myblog/master/Images/pattern-header.png) repeat-x; padding-top: 30px; border-top:5px solid #e74c3c; -moz-box-shadow: 0px 1px 1px rgba(0,0,0,0.2);-webkit-box-shadow: 0px 1px 1px rgba(0,0,0,0.2);box-shadow: 0px 1px 1px rgba(0,0,0,0.2);  position:relative; z-index:100 }
 .header_left{float:left;width:400px}
 #header{float:left;margin-right:20px}
 #header,#header a { color: #fff }
 #header h1 {font-size: 30px;}
 #header img {width:auto; max-height:50px}
 .socials{float:left;padding-top:12px}
-.socials a{background:url(https://lh5.googleusercontent.com/-bnH0e3pPbvA/UcPyDkpraFI/AAAAAAAAB9A/szLwrBKt11U/s360/social_icons.png);float:left;margin-right:5px;margin-bottom:10px;width:30px;height:28px;text-indent:-9999em;overflow:hidden}
+.socials a{background:url(http://cdn.rawgit.com.com/sonydaman/myblog/master/Images/social_icons.png);float:left;margin-right:5px;margin-bottom:10px;width:30px;height:28px;text-indent:-9999em;overflow:hidden}
 .socials a:hover{opacity:0.9}
 .socials a.facebook{background-position:-30px 0}
 .socials a.vimeo{background-position:-150px 0}
@@ -21,11 +21,11 @@ h1,h2,h3,h4,h5{font-family:"Oswald",Georgia,"Times New Roman",Times,serif;font-w
 #top_menu{position:absolute;top:50%;right:15px;margin-top:-18px}
 .sf-menu.hide{display:none}
 .select_menu{height:3em;line-height:3em;padding-left:10px;width:100%;font-size:12px;display:none;z-index:10;position:relative;margin:0;cursor:pointer}
-#top_menu span.nav_select{background:#ededed url(https://lh3.googleusercontent.com/-kuwjHwxHU5M/UcPx9Rf6hYI/AAAAAAAAB5s/kBvMLWkeLz4/s32/button_gray.png) bottom repeat-x;width:100%;height:3em;line-height:3em;padding:0 1em;position:absolute;top:0;left:0;z-index:1;-webkit-border-radius:2px;-moz-border-radius:2px;border-radius:2px;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;text-shadow:0 1px 1px #fff;-moz-box-shadow:0 1px 1px rgba(0,0,0,0.3);-webkit-box-shadow:0 1px 1px rgba(0,0,0,0.3);box-shadow:0 1px 1px rgba(0,0,0,0.3);display:none;font-size:12px}
-#top_menu span.nav_select span.menu_icon_wrapper{position:absolute;right:0;top:0;width:3em;height:3em;background:#e74c3c url(https://lh6.googleusercontent.com/-VHd-MUXwJmQ/UcPx8zFDwjI/AAAAAAAAB5Y/qY_VtSSDbT8/s32/button.png) bottom repeat-x;-webkit-border-top-right-radius:2px;-webkit-border-bottom-right-radius:2px;-moz-border-radius-topright:2px;-moz-border-radius-bottomright:2px;border-top-right-radius:2px;border-bottom-right-radius:2px;font-size:12px}
-#top_menu span.nav_select span.menu_icon_wrapper span.menu_icon{position:absolute;left:0;top:0;width:100%;height:100%;background:url(https://lh6.googleusercontent.com/-pQJha9_ywEA/UcPyAHqGh9I/AAAAAAAAB7A/O0_qVLEac8g/s15/menu_icon.png) center center no-repeat}
+#top_menu span.nav_select{background:#ededed url(http://cdn.rawgit.com.com/sonydaman/myblog/master/Images/button_gray.png) bottom repeat-x;width:100%;height:3em;line-height:3em;padding:0 1em;position:absolute;top:0;left:0;z-index:1;-webkit-border-radius:2px;-moz-border-radius:2px;border-radius:2px;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;text-shadow:0 1px 1px #fff;-moz-box-shadow:0 1px 1px rgba(0,0,0,0.3);-webkit-box-shadow:0 1px 1px rgba(0,0,0,0.3);box-shadow:0 1px 1px rgba(0,0,0,0.3);display:none;font-size:12px}
+#top_menu span.nav_select span.menu_icon_wrapper{position:absolute;right:0;top:0;width:3em;height:3em;background:#e74c3c url(http://cdn.rawgit.com.com/sonydaman/myblog/master/Images/button.png) bottom repeat-x;-webkit-border-top-right-radius:2px;-webkit-border-bottom-right-radius:2px;-moz-border-radius-topright:2px;-moz-border-radius-bottomright:2px;border-top-right-radius:2px;border-bottom-right-radius:2px;font-size:12px}
+#top_menu span.nav_select span.menu_icon_wrapper span.menu_icon{position:absolute;left:0;top:0;width:100%;height:100%;background:url(http://cdn.rawgit.com.com/sonydaman/myblog/master/Images/menu_icon.png) center center no-repeat}
 .header_search{float:right;padding-top:5px;margin-left:5px;-webkit-touch-callout:none;-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}
-.header_search .search_zoom{float:right;width:30px;height:28px;cursor:pointer;background:url(https://lh4.googleusercontent.com/-CR2tILljH80/UcPyClKWCgI/AAAAAAAAB8g/75u74UxJL4g/s210/search_btn.png) no-repeat}
+.header_search .search_zoom{float:right;width:30px;height:28px;cursor:pointer;background:url(http://cdn.rawgit.com.com/sonydaman/myblog/master/Images/search_btn.png) no-repeat}
 .header_search .search_zoom.close{background-position:0 100%}
 .header_search .search_box{width:200px;height:36px;position:absolute;right:40px;top:50%;margin-top:-17px;display:none}
 .header_search .search_box.show{display:block}
@@ -50,22 +50,22 @@ ul.sf-menu li li li:hover ul,ul.sf-menu li li li.sfHover ul{left:10em;top:0}
 .sf-menu li:first-child{-webkit-border-top-left-radius:4px;-webkit-border-top-right-radius:4px;-moz-border-radius-topleft:4px;-moz-border-radius-topright:4px;border-top-left-radius:4px;border-top-right-radius:4px}
 .sf-menu li:last-child{-webkit-border-bottom-right-radius:4px;-webkit-border-bottom-left-radius:4px;-moz-border-radius-bottomright:4px;-moz-border-radius-bottomleft:4px;border-bottom-right-radius:4px;border-bottom-left-radius:4px;border:none}
 .sf-menu li li a,.sf-menu li li a:visited{color:#666;text-shadow:none}
-.sf-menu > li.current-menu-ancestor > a,.sf-menu > li.current-menu-parent > a,.sf-menu > li.current-post-ancestor > a,.sf-menu > li.current-post-parent > a,.sf-menu > li.current-menu-item > a,.sf-menu > li.current_page_item > a,.sf-menu > li.current > a{color:#fff;background:#e74c3c url(https://lh3.googleusercontent.com/-K8Ezzv3u9b0/UcPyCzgITRI/AAAAAAAAB8o/QrYxUjJaP3Q/s34/skin1_gd.png) bottom repeat-x;-moz-box-shadow:0 1px 1px rgba(0,0,0,0.3);-webkit-box-shadow:0 1px 1px rgba(0,0,0,0.3);box-shadow:0 1px 1px rgba(0,0,0,0.3)}
-.sf-menu li:hover,.sf-menu li.sfHover{background:#536d86 url(https://lh6.googleusercontent.com/-VHd-MUXwJmQ/UcPx8zFDwjI/AAAAAAAAB5Y/qY_VtSSDbT8/s32/button.png) bottom repeat-x;color:#fff;-moz-box-shadow:0 1px 1px rgba(0,0,0,0.3);-webkit-box-shadow:0 1px 1px rgba(0,0,0,0.3);box-shadow:0 1px 1px rgba(0,0,0,0.3);outline:0}
+.sf-menu > li.current-menu-ancestor > a,.sf-menu > li.current-menu-parent > a,.sf-menu > li.current-post-ancestor > a,.sf-menu > li.current-post-parent > a,.sf-menu > li.current-menu-item > a,.sf-menu > li.current_page_item > a,.sf-menu > li.current > a{color:#fff;background:#e74c3c url(http://cdn.rawgit.com.com/sonydaman/myblog/master/Images/skin1_gd.png) bottom repeat-x;-moz-box-shadow:0 1px 1px rgba(0,0,0,0.3);-webkit-box-shadow:0 1px 1px rgba(0,0,0,0.3);box-shadow:0 1px 1px rgba(0,0,0,0.3)}
+.sf-menu li:hover,.sf-menu li.sfHover{background:#536d86 url(http://cdn.rawgit.com.com/sonydaman/myblog/master/Images/button.png) bottom repeat-x;color:#fff;-moz-box-shadow:0 1px 1px rgba(0,0,0,0.3);-webkit-box-shadow:0 1px 1px rgba(0,0,0,0.3);box-shadow:0 1px 1px rgba(0,0,0,0.3);outline:0}
 .sf-menu > li:hover > a,.sf-menu > li.sfHover > a{color:#fff}
 .sf-menu li li.current-menu-ancestor > a,.sf-menu li li.current-menu-parent > a,.sf-menu li li.current-post-ancestor > a,.sf-menu li li.current-post-parent > a,.sf-menu li li.current-menu-item a,.sf-menu li li.current_page_item a,.sf-menu li li.current a{color:#F4836A;background:#f0f0f0;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none}
-.sf-menu li li:hover,.sf-menu li li.sfHover{background:#f9f9f9 url(https://lh3.googleusercontent.com/-1QB3XFmdlYY/UcPyBWfyb4I/AAAAAAAAB74/ITrfhAVjwNI/s67/pattern.png) repeat-x}
+.sf-menu li li:hover,.sf-menu li li.sfHover{background:#f9f9f9 url(http://cdn.rawgit.com.com/sonydaman/myblog/master/Images/pattern.png) repeat-x}
 .sf-menu li li:hover a,.sf-menu li li.sfHover a{color:#333}
 .sf-menu a.sf-with-ul{padding-right:1.7em;min-width:1px;}
-.sf-sub-indicator{position:absolute;display:block;right:.6em;top:1.05em;width:10px;height:10px;text-indent:-999em;overflow:hidden;background:url(https://lh5.googleusercontent.com/-_c7cDyImAGY/UcPx8wd-mlI/AAAAAAAAB5c/EjJte4q0gF4/s110/arrows-ffffff.png) no-repeat -10px -100px}
+.sf-sub-indicator{position:absolute;display:block;right:.6em;top:1.05em;width:10px;height:10px;text-indent:-999em;overflow:hidden;background:url(http://cdn.rawgit.com.com/sonydaman/myblog/master/Images/arrows-ffffff.png) no-repeat -10px -100px}
 a > .sf-sub-indicator{top:1.1em;background-position:0 -100px;}
 a:focus > .sf-sub-indicator,a:hover > .sf-sub-indicator,a:active > .sf-sub-indicator,li:hover > a > .sf-sub-indicator,li.sfHover > a > .sf-sub-indicator{background-position:-10px -100px;}
 .sf-menu ul .sf-sub-indicator{background-position:-10px 0}
 .sf-menu ul a > .sf-sub-indicator{background-position:0 0}
 .sf-menu ul a:focus > .sf-sub-indicator,.sf-menu ul a:hover > .sf-sub-indicator,.sf-menu ul a:active > .sf-sub-indicator,.sf-menu ul li:hover > a > .sf-sub-indicator,.sf-menu ul li.sfHover > a > .sf-sub-indicator{background-position:-10px 0;}
-.sf-shadow ul{padding-top:8px;background:url(https://lh6.googleusercontent.com/-Lgz04nY7ppo/UcPx_Vf5SpI/AAAAAAAAB6w/frKzD2hMyEg/s19/menu_arrow.png) 20px 0 no-repeat;-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:4px}
+.sf-shadow ul{padding-top:8px;background:url(http://cdn.rawgit.com.com/sonydaman/myblog/master/Images/menu_arrow.png) 20px 0 no-repeat;-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:4px}
 .sf-shadow ul.sf-shadow-off{background:transparent}
-.sf-shadow ul ul{padding:0;padding-left:8px;background:url(https://lh3.googleusercontent.com/-fxXY1gczTns/UcPx_lhxt8I/AAAAAAAAB60/KbQkNrcw-jE/s19/menu_arrow_sub.png) 0 10px no-repeat}
+.sf-shadow ul ul{padding:0;padding-left:8px;background:url(http://cdn.rawgit.com.com/sonydaman/myblog/master/Images/menu_arrow_sub.png) 0 10px no-repeat}
 input[type="text"], input[type="password"], input[type="email"],textarea, select {
 font-size:0.9em; line-height:1em; padding: 1em;
 outline: none;-moz-border-radius: 2px;-webkit-border-radius: 2px;
@@ -100,15 +100,15 @@ html[xmlns] .slides {display: block;}
 .flex-direction-nav { position:absolute; top: 50%; margin-top:-35px; height:0px; width:100%;}
 .flex-direction-nav a { background-color: #000; background-color: rgba(0,0,0,0.7); background-repeat:no-repeat; background-position: center;
 width: 50px; height: 70px; display: block;  position: absolute; top: 0; cursor: pointer; text-indent: -9999px; -moz-transition: all .3s ease; -webkit-transition: all .3s ease; -o-transition: all .3s ease; -webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px; }
-.flex-direction-nav .flex-next { background-image: url(https://lh3.googleusercontent.com/-ufDOqvjXVZQ/UcPyAki9zkI/AAAAAAAAB7Y/vuzaVpukn2Q/s22/nav-next.png);right: -50px; }
-.flex-direction-nav .flex-prev { background-image: url(https://lh6.googleusercontent.com/-VYx-nqPdYqU/UcPyBbYd6mI/AAAAAAAAB7s/wap9a6qHvgI/s22/nav-prev.png); left: -50px;}
+.flex-direction-nav .flex-next { background-image: url(http://cdn.rawgit.com.com/sonydaman/myblog/master/Images/nav-next.png);right: -50px; }
+.flex-direction-nav .flex-prev { background-image: url(http://cdn.rawgit.com.com/sonydaman/myblog/master/Images/nav-prev.png); left: -50px;}
 .flexslider:hover .flex-next:hover,.flexslider:hover .flex-prev:hover {opacity: 0.8;}
 .flex-direction-nav .disabled {opacity: .3!important; filter:alpha(opacity=30); cursor: default;}
 .flexslider:hover .flex-direction-nav a.flex-next { right:20px;}
 .flexslider:hover .flex-direction-nav a.flex-prev { left:20px;}
-.flex-control-nav { background: #fff  url(https://lh3.googleusercontent.com/-1QB3XFmdlYY/UcPyBWfyb4I/AAAAAAAAB74/ITrfhAVjwNI/s67/pattern.png) 0 -20px repeat-x;position: absolute; bottom: -52px; left:0px; text-align: center; z-index:999; width:100%; height:35px; -moz-box-shadow: 0px 1px 1px rgba(0,0,0,0.2);-webkit-box-shadow: 0px 1px 1px rgba(0,0,0,0.2);box-shadow: 0px 1px 1px rgba(0,0,0,0.2); padding-top:17px; }
+.flex-control-nav { background: #fff  url(http://cdn.rawgit.com.com/sonydaman/myblog/master/Images/pattern.png) 0 -20px repeat-x;position: absolute; bottom: -52px; left:0px; text-align: center; z-index:999; width:100%; height:35px; -moz-box-shadow: 0px 1px 1px rgba(0,0,0,0.2);-webkit-box-shadow: 0px 1px 1px rgba(0,0,0,0.2);box-shadow: 0px 1px 1px rgba(0,0,0,0.2); padding-top:17px; }
 .flex-control-nav li {margin:0 7px; padding:0; display: inline-block; zoom: 1; *display: inline;}
-.flex-control-paging li a {width: 13px; height: 13px; line-height:28px; text-align:center; display: block; background: url(https://lh4.googleusercontent.com/-P0vkb54Qg3w/UcPyDFWoQKI/AAAAAAAAB8s/XWLJwnXIAbA/s26/slider_dots.png) no-repeat; cursor: pointer; color: #666; text-indent:9999em; overflow:hidden; }
+.flex-control-paging li a {width: 13px; height: 13px; line-height:28px; text-align:center; display: block; background: url(http://cdn.rawgit.com.com/sonydaman/myblog/master/Images/slider_dots.png) no-repeat; cursor: pointer; color: #666; text-indent:9999em; overflow:hidden; }
 .flex-control-paging li a.flex-active { background-position: bottom left; cursor: default; }
 .flex-control-thumbs { margin: 5px 0 0; position: static; overflow: hidden;}
 .flex-control-thumbs li {width: 25%; float: left; margin: 0;}
@@ -134,24 +134,24 @@ width: 50px; height: 70px; display: block;  position: absolute; top: 0; cursor: 
 .large_thumb { position: relative; }
 .post-body img { max-width:500px; }
 .thumb{-webkit-border-top-left-radius:4px;-webkit-border-top-right-radius:4px;-moz-border-radius-topleft:4px;-moz-border-radius-topright:4px;border-top-left-radius:4px;border-top-right-radius:4px;display:block;height:auto !important;width:100% !important}
-.post_meta { background:url(https://lh3.googleusercontent.com/-1QB3XFmdlYY/UcPyBWfyb4I/AAAAAAAAB74/ITrfhAVjwNI/s67/pattern.png) repeat-x; padding:15px 20px; border-bottom:1px solid #e0e1dc;}
+.post_meta { background:url(http://cdn.rawgit.com.com/sonydaman/myblog/master/Images/pattern.png) repeat-x; padding:15px 20px; border-bottom:1px solid #e0e1dc;}
 .post_meta span { color: #999; margin-right:12px; line-height:1;font-family:Georgia, "Times New Roman", Times, serif; font-style:italic;  font-size:12px; padding:5px 0; white-space:nowrap;}
-.post_meta span.user { background:url(https://lh5.googleusercontent.com/-Qluew9h2rng/UcPyAuOTbeI/AAAAAAAAB7c/l4QJSdazCOA/s16/meta_user.png) left center no-repeat; padding-left:18px;}
-.post_meta span.time { background:url(https://lh6.googleusercontent.com/--Swg3CGdbU8/UcPyAEV2cUI/AAAAAAAAB7M/0eEnNgsMq2c/s16/meta_time.png) left center no-repeat; padding-left:20px;}
-.post_meta span.comment { background: url(https://lh5.googleusercontent.com/-kfxAAytuHik/UcPyAHbhsxI/AAAAAAAAB7E/h9hMrLZPz3g/s16/meta_comment.png) no-repeat scroll left center transparent; padding-left: 20px; }
+.post_meta span.user { background:url(http://cdn.rawgit.com.com/sonydaman/myblog/master/Images/meta_user.png) left center no-repeat; padding-left:18px;}
+.post_meta span.time { background:url(http://cdn.rawgit.com.com/sonydaman/myblog/master/Images/meta_time.png) left center no-repeat; padding-left:20px;}
+.post_meta span.comment { background: url(http://cdn.rawgit.com.com/sonydaman/myblog/master/Images/meta_comment.png) no-repeat scroll left center transparent; padding-left: 20px; }
 .post_item_inner { padding: 20px; position: relative; }
 .post_item_inner p { margin-bottom: 30px; }
 .button.normal {background-color: #e74c3c;}
-.button,.post_tag a,.letter_submit{background:url(https://lh6.googleusercontent.com/-VHd-MUXwJmQ/UcPx8zFDwjI/AAAAAAAAB5Y/qY_VtSSDbT8/s32/button.png) bottom repeat-x;font-size:0.9em;line-height:1em;padding:1em;outline:none;font-weight:bold;color:#fff !important;cursor:pointer;display:inline-block;border-radius:2px;text-decoration:none;text-shadow:0 1px 0 rgba(0,0,0,0.2);-moz-box-shadow:0 1px 1px rgba(0,0,0,0.2);-webkit-box-shadow:0 1px 1px rgba(0,0,0,0.2);box-shadow:0 1px 1px rgba(0,0,0,0.2)}
+.button,.post_tag a,.letter_submit{background:url(http://cdn.rawgit.com.com/sonydaman/myblog/master/Images/button.png) bottom repeat-x;font-size:0.9em;line-height:1em;padding:1em;outline:none;font-weight:bold;color:#fff !important;cursor:pointer;display:inline-block;border-radius:2px;text-decoration:none;text-shadow:0 1px 0 rgba(0,0,0,0.2);-moz-box-shadow:0 1px 1px rgba(0,0,0,0.2);-webkit-box-shadow:0 1px 1px rgba(0,0,0,0.2);box-shadow:0 1px 1px rgba(0,0,0,0.2)}
 .button:hover{opacity: 0.8;}
-.like_post{background:url(https://lh3.googleusercontent.com/-1QB3XFmdlYY/UcPyBWfyb4I/AAAAAAAAB74/ITrfhAVjwNI/s67/pattern.png) repeat scroll 0 0 #F7F7F7;border-radius:2px;float:right}
-.post blockquote {background:#34495e url(https://lh3.googleusercontent.com/-oaTPjCsZXq8/UcPyCOOfHpI/AAAAAAAAB8E/H_lmDI9_W8A/s19/quote.png) 25px 20px no-repeat; color: #fff; position:relative; padding: 10px;}
+.like_post{background:url(http://cdn.rawgit.com.com/sonydaman/myblog/master/Images/pattern.png) repeat scroll 0 0 #F7F7F7;border-radius:2px;float:right}
+.post blockquote {background:#34495e url(http://cdn.rawgit.com.com/sonydaman/myblog/master/Images/quote.png) 25px 20px no-repeat; color: #fff; position:relative; padding: 10px;}
 .post-footer{border-top: 1px solid #EEEEEE;padding-top: 20px;margin-top:30px}
-.post_tag a {margin-bottom: 5px;margin-right: 5px;padding: 0.7em 0.9em;font-weight:normal;background-image: url(https://lh3.googleusercontent.com/-kuwjHwxHU5M/UcPx9Rf6hYI/AAAAAAAAB5s/kBvMLWkeLz4/s32/button_gray.png); background-color: #ededed;	color: #666!important; -moz-box-shadow: 0px 1px 1px rgba(0,0,0,0.3);-webkit-box-shadow: 0px 1px 1px rgba(0,0,0,0.3); box-shadow: 0px 1px 1px rgba(0,0,0,0.3);text-shadow: 0px 1px 1px #fff;}
+.post_tag a {margin-bottom: 5px;margin-right: 5px;padding: 0.7em 0.9em;font-weight:normal;background-image: url(http://cdn.rawgit.com.com/sonydaman/myblog/master/Images/button_gray.png); background-color: #ededed;	color: #666!important; -moz-box-shadow: 0px 1px 1px rgba(0,0,0,0.3);-webkit-box-shadow: 0px 1px 1px rgba(0,0,0,0.3); box-shadow: 0px 1px 1px rgba(0,0,0,0.3);text-shadow: 0px 1px 1px #fff;}
 .post_tag a:hover{background-color: #e74c3c;color: #fff!important;text-shadow: 0px 1px 1px rgba(0,0,0,0.3);	opacity: 1;}
 .sidebar .widget{margin-bottom:30px;background-color:#fff;-moz-box-shadow:0 0 4px rgba(0,0,0,0.1);-webkit-box-shadow:0 0 4px rgba(0,0,0,0.1);box-shadow:0 0 4px rgba(0,0,0,0.1);-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:4px}
-.sidebar h2{font-size:22px;padding:10px 20px;background:url(https://lh3.googleusercontent.com/-1QB3XFmdlYY/UcPyBWfyb4I/AAAAAAAAB74/ITrfhAVjwNI/s67/pattern.png) repeat-x;text-shadow:0 1px 1px #fff;border-bottom:1px solid #dedede;margin:0;-webkit-border-top-left-radius:4px;-webkit-border-top-right-radius:4px;-moz-border-radius-topleft:4px;-moz-border-radius-topright:4px;border-top-left-radius:4px;border-top-right-radius:4px}
-.sidebar ul li{background:url(https://lh6.googleusercontent.com/-f2lypDf_T0U/UcPx-Q4Bo1I/AAAAAAAAB6U/oiviAxpGje0/s16/folder.png) no-repeat scroll 20px center transparent;border-bottom:1px solid #EEE;padding:15px 20px 15px 45px}
+.sidebar h2{font-size:22px;padding:10px 20px;background:url(http://cdn.rawgit.com.com/sonydaman/myblog/master/Images/pattern.png) repeat-x;text-shadow:0 1px 1px #fff;border-bottom:1px solid #dedede;margin:0;-webkit-border-top-left-radius:4px;-webkit-border-top-right-radius:4px;-moz-border-radius-topleft:4px;-moz-border-radius-topright:4px;border-top-left-radius:4px;border-top-right-radius:4px}
+.sidebar ul li{background:url(http://cdn.rawgit.com.com/sonydaman/myblog/master/Images/folder.png) no-repeat scroll 20px center transparent;border-bottom:1px solid #EEE;padding:15px 20px 15px 45px}
 .sidebar ul li:hover{background-color:#f9f9f9}
 .sidebar ul li:last-child,#PopularPosts1 dd:last-child{border:none;-webkit-border-bottom-right-radius:4px;-webkit-border-bottom-left-radius:4px;-moz-border-radius-bottomright:4px;-moz-border-radius-bottomleft:4px;border-bottom-right-radius:4px;border-bottom-left-radius:4px}
 .sidebar li a{color:#666666}
@@ -171,7 +171,7 @@ width: 50px; height: 70px; display: block;  position: absolute; top: 0; cursor: 
 .comments .comment-block,.comments .comments-content .comment-replies,.comments .comment-replybox-single{margin-left:60px}
 .comments .comment-block,.comments .comment-thread.inline-thread .comment{border:1px solid #ddd;background:#f9f9f9;padding:10px}
 .comments .comments-content .comment{margin:15px 0 0;padding:0;width:100%;line-height:1em}
-.comments .comments-content .icon.blog-author{position:absolute;top:-12px;right:-12px;margin:0;background-image: url(https://lh3.googleusercontent.com/-s2RfYvCPTEs/UcPAX8GIW3I/AAAAAAAAB44/p9wq9yXuULE/s36/author.png);width:36px;height:36px}
+.comments .comments-content .icon.blog-author{position:absolute;top:-12px;right:-12px;margin:0;background-image: url(http://cdn.rawgit.com.com/sonydaman/myblog/master/Images/author.png);width:36px;height:36px}
 .comments .comments-content .inline-thread{padding:0 0 0 20px}
 .comments .comments-content .comment-replies{margin-top:0}
 .comments .comment-content{padding:5px 0;line-height:1.4em}
@@ -191,7 +191,7 @@ width: 50px; height: 70px; display: block;  position: absolute; top: 0; cursor: 
 #blog-pager-newer-link {float: left;}
 #blog-pager-older-link {float: right;}
 #blog-pager { margin:0; padding:0 0 20px; text-align: center; clear:both; }
-#footer{background:#fff url(https://lh3.googleusercontent.com/-1QB3XFmdlYY/UcPyBWfyb4I/AAAAAAAAB74/ITrfhAVjwNI/s67/pattern.png) repeat-x;font-size:0.9em;padding:20px 0;-moz-box-shadow:0 -1px 2px rgba(0,0,0,0.1);-webkit-box-shadow:0 -1px 2px rgba(0,0,0,0.1);box-shadow:0 -1px 2px rgba(0,0,0,0.1)}
+#footer{background:#fff url(http://cdn.rawgit.com.com/sonydaman/myblog/master/Images/pattern.png) repeat-x;font-size:0.9em;padding:20px 0;-moz-box-shadow:0 -1px 2px rgba(0,0,0,0.1);-webkit-box-shadow:0 -1px 2px rgba(0,0,0,0.1);box-shadow:0 -1px 2px rgba(0,0,0,0.1)}
 #footer a { font-weight:bold; }
 #PopularPosts1 img {float:left; margin-right:15px; background-color:#fff; border:1px solid #eee; padding:3px; -webkit-border-radius: 2px;-moz-border-radius: 2px;border-radius: 2px;}
 #PopularPosts1 dd {padding: 20px;border-bottom: 1px solid #EEEEEE;}
@@ -201,7 +201,7 @@ width: 50px; height: 70px; display: block;  position: absolute; top: 0; cursor: 
 .CSS_LIGHTBOX { z-index: 9999 !important; }
 .fblike {padding: 8px 0 3px 13px;height: 20px;max-width: 84px;}
 .post-share-buttons {margin-left: 46px;margin-top: 20px;}
-.post_author{margin-bottom:30px; padding:20px; background:#fff url(https://lh3.googleusercontent.com/-1QB3XFmdlYY/UcPyBWfyb4I/AAAAAAAAB74/ITrfhAVjwNI/s67/pattern.png) repeat-x; border-top:1px solid #ededed }
+.post_author{margin-bottom:30px; padding:20px; background:#fff url(http://cdn.rawgit.com.com/sonydaman/myblog/master/Images/pattern.png) repeat-x; border-top:1px solid #ededed }
 .post_author{-moz-box-shadow: 0px 4px 4px rgba(0,0,0,0.1);-webkit-box-shadow: 0px 4px 4px rgba(0,0,0,0.1);box-shadow: 0px 4px 4px rgba(0,0,0,0.1);border-bottom-right-radius:4px;border-bottom-left-radius:4px;}
 .post_author h4{font-size: 18px;}
 .post_author .author_avatar{ float:left; width:100px; height:100px; }
@@ -217,28 +217,28 @@ width: 50px; height: 70px; display: block;  position: absolute; top: 0; cursor: 
 .pthumb img {height: 97px;width: 129px;}
 #related-posts img:hover{opacity:0.7;}
 #related-posts ul li:nth-child(4n+4){margin-right:0;}
-.heading-border{font-size:22px;padding:10px 20px;background:url(https://lh3.googleusercontent.com/-1QB3XFmdlYY/UcPyBWfyb4I/AAAAAAAAB74/ITrfhAVjwNI/s67/pattern.png) repeat-x;text-shadow:0 1px 1px #fff;border-bottom:1px solid #dedede;margin:0;-webkit-border-top-left-radius:4px;-webkit-border-top-right-radius:4px;-moz-border-radius-topleft:4px;-moz-border-radius-topright:4px;border-top-left-radius:4px;border-top-right-radius:4px;margin-bottom:20px}
-.FollowByEmail{background-color:#E74C3C !important;background-image:url(https://lh3.googleusercontent.com/-1QB3XFmdlYY/UcPyBWfyb4I/AAAAAAAAB74/ITrfhAVjwNI/s67/pattern.png);background-repeat:repeat-x;border:5px solid #fff;color:#fff}
+.heading-border{font-size:22px;padding:10px 20px;background:url(http://cdn.rawgit.com.com/sonydaman/myblog/master/Images/pattern.png) repeat-x;text-shadow:0 1px 1px #fff;border-bottom:1px solid #dedede;margin:0;-webkit-border-top-left-radius:4px;-webkit-border-top-right-radius:4px;-moz-border-radius-topleft:4px;-moz-border-radius-topright:4px;border-top-left-radius:4px;border-top-right-radius:4px;margin-bottom:20px}
+.FollowByEmail{background-color:#E74C3C !important;background-image:url(http://cdn.rawgit.com.com/sonydaman/myblog/master/Images/pattern.png);background-repeat:repeat-x;border:5px solid #fff;color:#fff}
 .FollowByEmail h2{padding:0;border-radius:0;background:none;border-bottom:none;margin-bottom: 15px;color:#fff;text-shadow:0 1px 1px rgba(0,0,0,0.3)}
 .FollowByEmail .newsletter_inner{padding:25px 20px}
 .FollowByEmail p {margin-bottom:30px}
 .FollowByEmail .letter_email{width:100%;line-height:normal;margin-bottom:10px}
-.FollowByEmail .letter_submit{border:none;background:#666 url(https://lh6.googleusercontent.com/-VHd-MUXwJmQ/UcPx8zFDwjI/AAAAAAAAB5Y/qY_VtSSDbT8/s32/button.png) bottom repeat-x;margin:0}
+.FollowByEmail .letter_submit{border:none;background:#666 url(http://cdn.rawgit.com.com/sonydaman/myblog/master/Images/button.png) bottom repeat-x;margin:0}
 .FollowByEmail .letter_submit:hover{opacity: 0.8}
 .widget_socials .social_wrapper{padding:20px;padding-bottom:10px}
 .widget_socials .social_inner{margin-right:-20px}
 .widget_socials p {margin-bottom:30px}
 .widget_socials a{float:left;margin-right:10px;margin-bottom:10px;width:35px;height:35px;background-repeat:no-repeat;background-position:50% 50%;background-color:#888;text-indent:9999em;overflow:hidden;-webkit-border-radius:2px;-moz-border-radius:2px;border-radius:2px;-moz-box-shadow:0 1px 1px rgba(0,0,0,0.3);-webkit-box-shadow:0 1px 1px rgba(0,0,0,0.3);box-shadow:0 1px 1px rgba(0,0,0,0.3)}
 .widget_socials a:hover{background-color:#666!important}
-.widget_socials a.facebook{background-color:#6f85ae;background-image:url(https://lh3.googleusercontent.com/-ifDeD3iKioY/UcPx90L45OI/AAAAAAAAB6A/ObECkCist50/s24/facebook.png)}
-.widget_socials a.twitter{background-color:#23b6c6;background-image:url(https://lh5.googleusercontent.com/-ORgZZWh5n_I/UcPyEBWt1tI/AAAAAAAAB9E/YCY8K1egwSs/s24/twitter.png)}
-.widget_socials a.flickr{background-color:#ff0084;background-image:url(https://lh3.googleusercontent.com/-H4N0uYEwjBk/UcPx95Y8SII/AAAAAAAAB6E/ciYk7tJP6K0/s24/flickr.png)}
-.widget_socials a.dribbble{background-color:#c6376d;background-image:url(https://lh6.googleusercontent.com/-DHQ25c_6w_E/UcPx9kiYk7I/AAAAAAAAB54/6-4jSV0gsFY/s24/dribbble.png)}
-.widget_socials a.vimeo{background-color:#20b9eb;background-image:url(https://lh5.googleusercontent.com/-kI8F8zOCSSA/UcPyEbKEGcI/AAAAAAAAB9U/8Ancbp9MIMM/s24/vimeo.png)}
-.widget_socials a.tumblr{background-color:#2e4b68;background-image:url(https://lh3.googleusercontent.com/-Dtw42nPOLhY/UcPyDjtZmgI/AAAAAAAAB84/djpN4lQZdPE/s24/tumblr.png)}
-.widget_socials a.rss{background-color:#fa7204;background-image:url(https://lh4.googleusercontent.com/-EbEXnpN-RIs/UcPyCZPXClI/AAAAAAAAB8Q/IDEpJmzqkuU/s24/rss.png)}
-.widget_socials a.linkedin{background-color:#069;background-image:url(https://lh5.googleusercontent.com/-gAsnBv-K_hk/UcPx_FpxF2I/AAAAAAAAB6o/l07Bq86UHSE/s24/linkedin.png)}
-.widget_socials a.youtube{background-color:#dd3d3d;background-image:url(https://lh6.googleusercontent.com/-aVPy7jN4T7Q/UcPyEV_ljFI/AAAAAAAAB9Q/cVUbI1P1FTg/s24/youtube.png)}
-.widget_socials a.google_plus{background-color:#dd3d3d;background-image:url(https://lh3.googleusercontent.com/-H8fbtEHl9yw/UcPx-RGuARI/AAAAAAAAB6Q/7j9H_Ry5_m4/s24/google%252B.png)}
-.widget_socials a.pinterest{background-color:#c9242d;background-image:url(https://lh5.googleusercontent.com/-pGslChgpGfU/UcPyB_-yhgI/AAAAAAAAB8A/H8IyIF4IDG8/s24/pinterest.png)}
-.widget_socials a.instagram{background-color:#1b577d;background-image:url(https://lh6.googleusercontent.com/-eIdoWi7bEVc/UcPx-5tP-cI/AAAAAAAAB6g/OLK97uwHujA/s24/instagram.png)}
+.widget_socials a.facebook{background-color:#6f85ae;background-image:url(http://cdn.rawgit.com.com/sonydaman/myblog/master/Images/facebook.png)}
+.widget_socials a.twitter{background-color:#23b6c6;background-image:url(http://cdn.rawgit.com.com/sonydaman/myblog/master/Images/twitter.png)}
+.widget_socials a.flickr{background-color:#ff0084;background-image:url(http://cdn.rawgit.com.com/sonydaman/myblog/master/Images/flickr.png)}
+.widget_socials a.dribbble{background-color:#c6376d;background-image:url(http://cdn.rawgit.com.com/sonydaman/myblog/master/Images/dribbble.png)}
+.widget_socials a.vimeo{background-color:#20b9eb;background-image:url(http://cdn.rawgit.com.com/sonydaman/myblog/master/Images/vimeo.png)}
+.widget_socials a.tumblr{background-color:#2e4b68;background-image:url(http://cdn.rawgit.com.com/sonydaman/myblog/master/Images/tumblr.png)}
+.widget_socials a.rss{background-color:#fa7204;background-image:url(http://cdn.rawgit.com.com/sonydaman/myblog/master/Images/rss.png)}
+.widget_socials a.linkedin{background-color:#069;background-image:url(http://cdn.rawgit.com.com/sonydaman/myblog/master/Images/linkedin.png)}
+.widget_socials a.youtube{background-color:#dd3d3d;background-image:urlhttp://cdn.rawgit.com.com/sonydaman/myblog/master/Images/youtube.png)}
+.widget_socials a.google_plus{background-color:#dd3d3d;background-image:url(http://cdn.rawgit.com.com/sonydaman/myblog/master/Images/google%252B.png)}
+.widget_socials a.pinterest{background-color:#c9242d;background-image:url(http://cdn.rawgit.com.com/sonydaman/myblog/master/Images/pinterest.png)}
+.widget_socials a.instagram{background-color:#1b577d;background-image:url(http://cdn.rawgit.com.com/sonydaman/myblog/master/Images/instagram.png)}
